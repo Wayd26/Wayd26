@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Wassiou.</h2>
+<h2> Hey there! I'm Wassiou Ayedoun.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -14,9 +14,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -35,11 +33,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
 <br/>
 
 <a href="https://github.com/Wayd26">
@@ -52,10 +45,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/wayedoun26/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/golden_wayd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:wayedoun@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://https://img.shields.io/badge/Website-www.wassiou--ayedoun.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/wayedoun26/"><img alt="LinkedIn" src="https://https://img.shields.io/badge/LinkedIn-Wassiou%20Ayedoun-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/Wayd_AYD"><img alt="Twitter" src="https://https://https://img.shields.io/badge/Twitter-Wayd__AYD-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:wayedoun@gmail.com"><img alt="Email" src="https://https://img.shields.io/badge/Email-wayedoun%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Wayd](https://github.com/Wayd26)
+⭐️ From [Wassiou Ayedoun](https://github.com/Wayd26)

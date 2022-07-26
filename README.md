@@ -1,14 +1,14 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/Wayd26/Wayd26/master/assets/Wassiou%20Ayedoun%20Banner.png">
 
 <h2> Hey there! I'm Wassiou Ayedoun.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studied Computer Analysis and Programming at University of Abomey-Calavi(ENEAM).
+- 💼 &nbsp; Working as a Web Frontend Developer at DMD Consult.
+- 🌱 &nbsp; Learning more about Blockchain Development, Backend and Mobile Development.
+- ✍️ &nbsp; Pursuing Graphic Design as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -31,8 +31,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 <br/>
 
 <a href="https://github.com/Wayd26">

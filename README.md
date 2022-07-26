@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/Wayd26/Wayd26/master/assets/Wassiou%20Ayedoun%20Banner.png">
 
-<h2> Hey there! I'm Wassiou Ayedoun.</h2>
+<h2> Hey there 👋! I'm Wassiou Ayedoun.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 

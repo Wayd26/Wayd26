@@ -36,7 +36,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.wassiou_ayedoun.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.wassiou--ayedoun.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://wassiou-ayedoun.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.wassiou--ayedoun.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/wayedoun26/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Wassiou%20Ayedoun-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/Wayd_AYD"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Wayd__AYD-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:wayedoun@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wayedoun%40gmail.com-blue?style=flat-square&logo=gmail"></a>

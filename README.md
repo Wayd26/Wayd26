@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studied Computer Analysis and Programming at University of Abomey-Calavi(ENEAM).
-- 💼 &nbsp; Working as a Frontend Developer at OPEN Groupes(France).
+- 💼 &nbsp; Working as a Frontend Developer at OPEN Groupe(France).
 - 🌱 &nbsp; Learning more about Blockchain Development, Backend and Mobile Development.
 - ✍️ &nbsp; Pursuing Graphic Design as hobbies/side hustles.
 

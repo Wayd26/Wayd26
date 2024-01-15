@@ -4,10 +4,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studied Computer Analysis and Programming at University of Abomey-Calavi(ENEAM).
+- 🎓 &nbsp; Studied Computer Science at University of Abomey-Calavi(Benin Republic).
 - 💼 &nbsp; Working as a Frontend Developer at OPEN Groupe(France).
-- 🌱 &nbsp; Learning more about Blockchain Development, Backend and Mobile Development.
-- ✍️ &nbsp; Pursuing Graphic Design as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Blockchain Development, Backend, Mobile Development and AI.
+- ✍️ &nbsp;.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
